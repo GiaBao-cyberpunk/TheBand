@@ -388,7 +388,7 @@ html {
 
 .content-map{
     padding-top: 56.27976%;
-    background: url(/assets/img/map.jpg) top center / cover no-repeat;
+    background: url(../img/map.jpg) top center / cover no-repeat;
     filter: grayscale(50%);
 }
 
